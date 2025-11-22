@@ -35,6 +35,7 @@ Sistema de reconocimiento de actividades humanas en tiempo real utilizando Media
 
 **Dataset y archivos generados:**  
 [📁 Google Drive - Datos del Proyecto](https://drive.google.com/drive/folders/1R1xmOhAPnwtCdt_xnbxkV7s3HXar5VZk?usp=drive_link)
+Video link - (https://youtu.be/viMRYyA53uE)
 
 Contenido:
 - Videos originales (18 videos, 15,656 frames)
